@@ -1,0 +1,77 @@
+[
+    {
+        "message": "Your PayPal account requires urgent verification. Please verify immediately."
+    },
+    {
+        "message": "Your PayPal account requires urgent verification. Please verify immediately."
+    },
+    {
+        "message": "Your PayPal account requires urgent verification. Please verify immediately."
+    },
+    {
+        "message": "Your PayPal account has been suspended. Verify your account immediately at http://paypal-security-check.example.com⁠ or it will be permanently closed."
+    },
+    {
+        "message": "URGENT: Your SBI account will be permanently blocked today. Verify your KYC immediately at http://sbi-secure-verification.example.com and enter your account details to avoid suspension."
+    },
+    {
+        "message": "Your PayPal account has been suspended. Verify your account immediately at http://paypal-security-verification.com/login or your account will be permanently blocked. Enter your username, password, and OTP to restore access."
+    },
+    {
+        "message": "Your PayPal account has been suspended. Verify your account immediately at http://paypal-security-verification.com/login or your account will be permanently blocked. Enter your username, password, and OTP to restore access."
+    },
+    {
+        "message": "Your PayPal account has been suspended. Verify your account immediately at http://paypal-security-verification.com/login or your account will be permanently blocked. Enter your username, password, and OTP to restore access."
+    },
+    {
+        "message": "Congratulations! Your PayPal account has been suspended due to unusual activity. Verify your account immediately at http://paypal-security-verification.com/login or your account will be permanently blocked. Enter your username, password, and OTP to restore access."
+    },
+    {
+        "message": "Congratulations! Your PayPal account has been suspended due to unusual activity. Verify your account immediately at http://paypal-security-verification.com/login or your account will be permanently blocked. Enter your username, password, and OTP to restore access."
+    },
+    {
+        "message": "Congratulations! You have won ₹25,00,000 in the Mega Lucky Draw. To claim your prize, pay a processing fee of ₹2,999 immediately. Send your bank details and OTP to confirm your identity."
+    },
+    {
+        "message": "Your UPI payment of ₹49,999 has failed. To receive your refund, verify your UPI account immediately using the link below and enter the OTP sent to your phone: http://upi-refund-verification.com"
+    },
+    {
+        "message": "Alert: Your bank account will be blocked today due to incomplete KYC verification. Update your KYC immediately at http://secure-kyc-update.com and enter your account number, password and OTP."
+    },
+    {
+        "message": "Your package could not be delivered because the address is incomplete. Pay ₹25 for redelivery and update your address immediately at http://delivery-update-confirm.com"
+    },
+    {
+        "message": "Congratulations! Your profile has been selected for a work-from-home job paying ₹45,000 per month. Pay a refundable registration fee of ₹1,499 today to activate your employee account. Send your ID proof and bank details to complete verification."
+    },
+    {
+        "message": "Your SIM card will be deactivated within 2 hours because your KYC has expired. Verify your identity immediately at http://sim-kyc-verification.com and enter your Aadhaar number and OTP."
+    },
+    {
+        "message": "URGENT: A criminal case has been registered against your mobile number. Your account will be frozen unless you verify your identity immediately. Contact the officer on WhatsApp and provide your Aadhaar details and OTP."
+    },
+    {
+        "message": "Security Alert: We detected unusual activity on your account. Your account will be permanently suspended unless you verify your login immediately at http://account-security-check.com. Enter your username and password."
+    },
+    {
+        "message": "Your Aadhaar-linked banking services are about to expire. Complete your KYC verification within 30 minutes to avoid account suspension. Click http://aadhaar-kyc-update.com and enter your Aadhaar number and OTP."
+    },
+    {
+        "message": "SPECIAL OFFER! You have been selected for an exclusive smartphone worth ₹80,000 for only ₹999. This offer expires tonight. Pay now to reserve your phone."
+    },
+    {
+        "message": "Hi, I lost my phone and I'm using a friend's number. I'm in an emergency and need ₹20,000 immediately. Please transfer the money to this UPI ID and don't call because my phone is unavailable."
+    },
+    {
+        "message": "URGENT SECURITY ALERT! Your bank account has been flagged for suspicious activity and will be permanently blocked today. Verify your KYC immediately at http://secure-bank-verification.com/login. Enter your account number, username, password, Aadhaar number and OTP to restore access. Failure to verify within 30 minutes will result in legal action."
+    },
+    {
+        "message": "Hi, good morning! Hope you are doing well. Have a great day!"
+    },
+    {
+        "message": "Hi, just a reminder that our project meeting is scheduled for tomorrow at 10 AM. Please bring your notes."
+    },
+    {
+        "message": "Hi everyone, our team meeting is scheduled for Saturday at 11 AM. We will discuss the project progress, divide the remaining tasks, and finalize the presentation. Please be available on time."
+    }
+]

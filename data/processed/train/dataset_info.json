@@ -1,0 +1,52 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "bengali-sms-smishing-dataset",
+  "dataset_size": 1095007,
+  "description": "",
+  "download_size": 582088,
+  "features": {
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1677095,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 760631,
+      "num_examples": 4903,
+      "dataset_name": "bengali-sms-smishing-dataset"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 113626,
+      "num_examples": 701,
+      "dataset_name": "bengali-sms-smishing-dataset"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 220750,
+      "num_examples": 1401,
+      "dataset_name": "bengali-sms-smishing-dataset"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
